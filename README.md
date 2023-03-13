@@ -1,0 +1,1 @@
+# Paint online application built on web sockets. You can draw online with multiple connections with automatic synchronization. An unlimited number of users can connect to one session
